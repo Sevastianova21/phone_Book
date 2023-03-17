@@ -1,0 +1,5 @@
+Имя: Владимир Ильич    Email: Volodya@gmail.com    Номер телефона: +6557657
+Имя: Железный Феликс    Email: RedZhel@red.mail.ru    Номер телефона: 6745
+Имя: Иосиф    Email:  JosefStal@red.mail.ru    Номер телефона: 194519
+Имя: Лев Давидович    Email: DavidStar@revolution.com    Номер телефона: 987866664
+Имя: Серега Киров    Email: TheyKilledKirov@redDead.ru    Номер телефона: 65765765
